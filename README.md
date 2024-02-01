@@ -2,7 +2,7 @@
 
 **<span style="font-size: larger;">CryptoCurrency Dashboard</span>**
 
-**Check it out live: [Cryptonex Hub](https://cryptonexhub.netlify.app/){:target="_blank"}**
+**Check it out live: [Cryptonex Hub](https://cryptonexhub.netlify.app/)**
 
 # Cryptocurrency Dashboard
 
