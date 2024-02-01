@@ -1,3 +1,8 @@
+# Project Title
+
+**<span style="font-size: larger;">CryptoCurrency Dashboard</span>**
+
+**Check it out live: [Cryptonex Hub](https://cryptonexhub.netlify.app/)**
 
 # Cryptocurrency Dashboard
 
@@ -11,11 +16,10 @@ Welcome to the Cryptocurrency Dashboard, a dynamic platform for tracking and vis
 
 ## How to Run Locally
 To run this project locally, follow these simple steps:
-```bash
 git clone https://github.com/pavandeveloperr/cryptocurrency-dashboard.git
-cd cryptocurrency-dashboard
-npm install
-npm start
+- cd cryptocurrency-dashboard
+- npm install
+- npm start
 
 Open your favorite code editor, and you're ready to go! Access the dashboard by visiting localhost:5173 in your browser.
 
