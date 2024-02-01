@@ -31,9 +31,7 @@ Open your favorite code editor, and you're ready to go! Access the dashboard by 
 - View prices in USD or INR
 - Responsive design for mobile compatibility
 - Pie chart displays a static user portfolio
-
-## Sidebar
-- Indicates profit/loss percentage on a 24-hour basis
+- sidebar Indicates profit/loss percentage on a 24-hour basis
 
 ## Project Background
 This capstone project was developed during AlmaBetter training, focusing on applying frontend technologies and navigating documentation for new features. Challenges included data formatting and filtering without compromising data integrity.
