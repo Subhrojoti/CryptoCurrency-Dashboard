@@ -1,0 +1,148 @@
+.portfolio {
+  background-color: rgb(255, 255, 255);
+  width:100%;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.pie{
+  height: 270px;
+  display: flex;
+  justify-content: center;
+}
+
+.stock{
+  display: flex;
+  justify-content: space-between
+}
+
+.ammount{
+  font-weight: bold;
+  font-size: large;
+  margin: 10px;
+
+}
+.total-value{
+  font-weight: bold;
+  font-size: large;
+  margin: 10px;
+}
+
+.total-value span{
+  color: rgb(145, 146, 146);
+  font-weight: 400;
+  font-size: medium;
+}
+
+
+
+.exchange{
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+  border-radius: 10px;
+  height: auto;
+  width: 100%;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.exchange-val{
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 10px;
+  width: 9rem;
+}
+.main{
+  display:flex ;
+  justify-content: center;
+  box-shadow: 1px 1px 9px 2px rgba(0, 0, 0, 0.3);
+  margin-top: 7px;
+  border-radius: 10px;
+}
+.exchange-coins {
+  font-weight: 700;
+  font-size: 25px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  
+}
+
+.sell {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 4rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.value {
+  padding: 8px;
+  border-radius: 7px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.);
+ 
+}
+
+.buy {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.trade-buy,
+.trade-sell {
+  padding: 8px;
+  font-weight: 700;
+  border-radius: 7px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  align-self: center;
+}
+
+.trade-buy {
+  color: rgb(70, 184, 79);
+  background-color: rgba(45, 233, 101, 0.199);
+  
+}
+
+.trade-sell {
+  color: rgb(238, 47, 13);
+  background-color: rgba(255, 0 , 0, 0.1);
+}
+
+.ex-val{
+  padding:5px 5px 5px 10px;
+  display: flex;
+  width: 9rem;
+  align-items: center;
+  font-weight: 700;
+  color: green;
+  
+  
+}
+
+.exchange-btn {
+  color: #fff;
+  background-color: #4c7ce2;
+  font-size: larger;
+  font-weight: 600;
+  padding: 10px 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  transition: background-color 0.3s ease-in-out;
+}
+
+.exchange-btn:hover {
+  background-color: #2c4e9e; 
+}
+
+#ex-btn {
+  text-align: center;
+  margin-top: 20px;
+}
+
